@@ -19,14 +19,13 @@ This project demonstrates **end-to-end manual testing** of the DemoBlaze e-comme
 
 ## Folder Structure
 demoblaze-testing-project/
-  │── README.md
-  │── TestCases_DemoBlaze.xlsx
-  │── DefectReports_DemoBlaze.xlsx
-  │── screenshots/
-        │── Homepage.png
-        │── Footer.png
-        │── Catagories.png
-        │── Checkout.png
+├── README.md             # Project overview and instructions
+├── Demoblaze.com - Manual Testing.xlsx   # Manual test cases
+└── screenshots/          # Screenshots of UI and bugs
+    ├── Homepage.png
+    ├── Footer.png
+    ├── Categories.png
+    └── Checkout.png
 
 
 ## Key Objectives
